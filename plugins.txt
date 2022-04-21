@@ -1,0 +1,7 @@
+chucknorris:1.4
+greenballs:1.15.1
+scm-api:602.v6a_81757a_31d2
+git-client:3.11.0
+git:4.11.0 
+ws-cleanup:0.41
+cloudbees-folder:6.714.v79e858ef76a_2
